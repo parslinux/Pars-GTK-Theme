@@ -1,5 +1,6 @@
-# Pars-GTK-Theme
 # 🐆 Pars GTK Theme
+
+Status: Alpha (v0.2.0)
 
 Official GTK theme for Pars Linux.
 
