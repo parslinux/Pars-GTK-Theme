@@ -1,3 +1,4 @@
+# Pars-GTK-Theme
 # 🐆 Pars GTK Theme
 
 Official GTK theme for Pars Linux.
