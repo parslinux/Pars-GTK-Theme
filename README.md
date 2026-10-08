@@ -1,6 +1,6 @@
 # 🐆 Pars GTK Theme
 
-Status: Alpha (v0.2.0)
+**Status: Alpha (v0.2.0)**
 
 Official GTK theme for Pars Linux.
 
@@ -14,36 +14,37 @@ Pars GTK Theme is a clean, modern and minimal GTK theme designed for GNOME and X
 - GNOME support
 - XFCE support
 
+## Current Status
 
+Version: **v0.2.0**
 
-##Status: Alpha
+### Changes
 
-v0.2.0
-- Pars Blue Accent
-- Pars Dark Palette
-- Orchis upstream imported
+- Imported Orchis Theme as upstream base
+- Added Pars Blue accent palette
+- Added Pars Dark Navy palette
+- Initial branding work
 
 ## Screenshots
 
 ### Pars Dark v0.2
 
-![reenshots/pars-dark-v0.2.png
+screenshots/pars-dark-v0.2.png
 
-## Status
+## Upstream Project
 
-Current Version: v0.2.0
+Pars GTK Theme is based on the Orchis Theme.
 
-### Changes
+Original project:
 
-- Imported Orchis theme as upstream base
-- Added Pars Blue accent palette
-- Added Pars Dark Navy palette
-- Initial branding work
-``
+- Orchis Theme
+- Vinceliuice and contributors
 
 ## License
 
 GPL-3.0-or-later
+
+See the LICENSE file for details.
 
 ---
 
